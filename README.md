@@ -1,1 +1,1 @@
-# learning-Python-R
+print("Hello, GitHub! I'm learning R.")
